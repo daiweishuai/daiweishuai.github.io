@@ -9,7 +9,7 @@ const data = [
   },
   {
     title: '移动端点餐',
-    link: './take-out-platform/',
+    link: './vue2-h5/',
     description: 'vue2+vuex',
   },
 ];
