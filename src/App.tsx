@@ -4,7 +4,7 @@ import './App.css';
 const data = [
   {
     title: '笔记doc',
-    link: './note/',
+    link: 'https://blog.daiweishuai.top',
     description: 'vitepress',
   },
   {
