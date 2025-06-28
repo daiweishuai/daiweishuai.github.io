@@ -1,0 +1,10 @@
+html {
+  font-size: 62.5%;
+}
+
+html body #root .App {
+  min-height: 100vh;
+  padding-top: 100px;
+  margin: 0 auto;
+  width: 1200px;
+}
