@@ -12,6 +12,11 @@ const data = [
     link: './vue2-h5/',
     description: 'vue2+vuex',
   },
+  {
+    title: '掘金',
+    link: './nuggets/',
+    description: 'html+css+js',
+  }
 ];
 
 function App() {
